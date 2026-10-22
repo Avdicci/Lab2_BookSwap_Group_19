@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oosulab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3244b6a922f30b625b399162bad053278d5c1f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56b2673e5de632ecbe744842783c5f8456275ff3")]
 [assembly: System.Reflection.AssemblyProductAttribute("oosulab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oosulab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
