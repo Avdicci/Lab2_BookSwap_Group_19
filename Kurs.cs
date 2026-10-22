@@ -1,5 +1,7 @@
 ﻿using System;
 
+// Push Test. Om Du Ser Detta = Win
+
 namespace Oosu_LAB1
 {
     public class Kurs
