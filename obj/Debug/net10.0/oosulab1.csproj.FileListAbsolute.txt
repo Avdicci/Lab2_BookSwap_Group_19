@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\oosulab1\bin\Debug\net10.0\oosulab1.exe
+C:\Users\Hugo\source\repos\oosulab1\bin\Debug\net10.0\oosulab1.deps.json
+C:\Users\Hugo\source\repos\oosulab1\bin\Debug\net10.0\oosulab1.runtimeconfig.json
+C:\Users\Hugo\source\repos\oosulab1\bin\Debug\net10.0\oosulab1.dll
+C:\Users\Hugo\source\repos\oosulab1\bin\Debug\net10.0\oosulab1.pdb
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\oosulab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\oosulab1.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\oosulab1.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\oosulab1.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\oosulab1.dll
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\refint\oosulab1.dll
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\oosulab1.pdb
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\oosulab1.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\ref\oosulab1.dll
+C:\Users\Hugo\source\repos\oosulab1\obj\Debug\net10.0\oosulab1.csproj.Up2Date
