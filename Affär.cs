@@ -1,4 +1,11 @@
 ﻿using System;
+<<<<<<< HEAD
+=======
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+>>>>>>> 2f8796b (Initial commit)
 
 namespace Oosu_LAB1
 {
@@ -35,5 +42,8 @@ namespace Oosu_LAB1
         }
     }
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2f8796b (Initial commit)
