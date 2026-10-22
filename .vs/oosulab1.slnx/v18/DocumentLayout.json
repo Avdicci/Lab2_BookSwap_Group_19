@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Hugo\\Documents\\GitHub\\Lab2_BookSwap_Group_19\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4289330A-B3E7-0317-A12B-8F74F0EF67CC}|oosulab1.csproj|c:\\users\\hugo\\documents\\github\\lab2_bookswap_group_19\\subklasser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4289330A-B3E7-0317-A12B-8F74F0EF67CC}|oosulab1.csproj|solutionrelative:subklasser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4289330A-B3E7-0317-A12B-8F74F0EF67CC}|oosulab1.csproj|c:\\users\\hugo\\documents\\github\\lab2_bookswap_group_19\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4289330A-B3E7-0317-A12B-8F74F0EF67CC}|oosulab1.csproj|solutionrelative:kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4289330A-B3E7-0317-A12B-8F74F0EF67CC}|oosulab1.csproj|c:\\users\\hugo\\documents\\github\\lab2_bookswap_group_19\\subklasser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4289330A-B3E7-0317-A12B-8F74F0EF67CC}|oosulab1.csproj|solutionrelative:subklasser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4289330A-B3E7-0317-A12B-8F74F0EF67CC}|oosulab1.csproj|c:\\users\\hugo\\documents\\github\\lab2_bookswap_group_19\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,32 +38,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Subklasser.cs",
               "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Lab2_BookSwap_Group_19\\Subklasser.cs",
               "RelativeDocumentMoniker": "Subklasser.cs",
               "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Lab2_BookSwap_Group_19\\Subklasser.cs",
               "RelativeToolTip": "Subklasser.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T12:20:08.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Kurs.cs",
               "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Lab2_BookSwap_Group_19\\Kurs.cs",
               "RelativeDocumentMoniker": "Kurs.cs",
               "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Lab2_BookSwap_Group_19\\Kurs.cs",
               "RelativeToolTip": "Kurs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T12:18:36.368Z"
+              "WhenOpened": "2026-10-02T12:18:36.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

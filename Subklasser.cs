@@ -16,7 +16,7 @@ namespace Oosu_LAB1
             this.författare = författare;
             this.upplaga = upplaga;
         }
-
+        
         public override string GetInfo()
         {
             return $"Kursbok: {författare}, Upplaga: {upplaga} (ISBN: {isbn})";
