@@ -1,5 +1,5 @@
 ﻿using System;
-
+//gfsdgsdgsegseg
 namespace Oosu_LAB1
 {
     public class Controller
